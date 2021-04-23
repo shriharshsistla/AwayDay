@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "930161112701",
+    "project_id": "gossapp-b64fd",
+    "storage_bucket": "gossapp-b64fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930161112701:android:28af0c02b1c482ee84a314",
+        "android_client_info": {
+          "package_name": "com.example.gossap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930161112701-og4hkn044k3qhc1m6jr0b5g79do7d0nu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gossap",
+            "certificate_hash": "17b64eaa5bf33f20f194d0137d764785b77a98c9"
+          }
+        },
+        {
+          "client_id": "930161112701-iemu30d3ium9ag4fhgv54f9an2ugb7u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Lx6GIBghCdqiEpnadlFbSMBhDAQF2x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930161112701-iemu30d3ium9ag4fhgv54f9an2ugb7u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
